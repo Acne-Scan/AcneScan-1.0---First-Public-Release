@@ -48,3 +48,8 @@ Installation Instructions:
 
 ## License
 AcneScan is released under the MIT License. See the LICENSE file for more information.
+
+---
+
+## Link Download GDrive
+https://drive.google.com/file/d/1tg0LwGrO4f-aTzngO_I0wPe1GmEPcTZ_/view?usp=sharing
