@@ -3,7 +3,6 @@
 # AcneScan 1.0 - First Public Release
 ## Release Date: December 12, 2024
 
----
 
 ## Overview
 AcneScan is an Android application designed to help users identify acne types on their face and provide skincare guidance based on their skin condition. It also offers useful articles about skincare and links to recommended products for each acne type.
