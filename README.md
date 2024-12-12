@@ -1,4 +1,4 @@
-![](acne-scan-final.png)
+![](AcneScanFinal.png)
 Release Title: AcneScan 1.0 - First Public Release
 Release Date: December 12, 2024
 
